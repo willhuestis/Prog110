@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 4\RockPaperScissors.cs" Link="RockPaperScissors.cs" />
+  </ItemGroup>
+
+</Project>

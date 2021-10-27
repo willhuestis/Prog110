@@ -1,0 +1,14 @@
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.exe
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.deps.json
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.runtimeconfig.json
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.runtimeconfig.dev.json
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.dll
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\bin\Debug\netcoreapp3.1\PizzaTime.pdb
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.csproj.AssemblyReference.cache
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.AssemblyInfoInputs.cache
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.AssemblyInfo.cs
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.csproj.CoreCompileInputs.cache
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.dll
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.pdb
+C:\Users\willh\OneDrive\Bellevue College\2021-2022\Fall Quarter\Prog 110\Homework\Homework Week 3\PizzaTime\PizzaTime\obj\Debug\netcoreapp3.1\PizzaTime.genruntimeconfig.cache
